@@ -1,6 +1,6 @@
 # airflow-2-docker-setup
 
-This project contains a docker-compose file and instructions to setup Airflow 2 on a single Linux (Ubuntu 20.04) machine. The file is completely based on the official installation guide of Airflow with Docker, which can be found [here](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html). Personally I used to [portainer](https://www.portainer.io/) `stacks` instead of docker-compose but you should be able to get Airflow 2 up and running with the file and instructions. If not, please have a look at the Airflow documentation for further assistance.
+This project contains a docker-compose file and instructions to setup Airflow 2 locally on a single Linux (Ubuntu 20.04) machine. The file is completely based on the official installation guide of Airflow with Docker, which can be found [here](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html). Personally I used to [portainer](https://www.portainer.io/) `stacks` instead of docker-compose but you should be able to get Airflow 2 up and running with the file and instructions. If not, please have a look at the Airflow documentation for further assistance.
 
 ## Instructions
 
